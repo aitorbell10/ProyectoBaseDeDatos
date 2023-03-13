@@ -10,6 +10,10 @@ using Mono.Data.Sqlite;
 using Newtonsoft.Json;
 using System.Security.Cryptography;
 
+/// <summary>
+/// Script creado para hacer una base de datos y el json, donde también se encripta y desencripta el código y la información.
+/// </summary>
+
 public class DatabaseHandler : MonoBehaviour
 {
     //Variable para controlar la ruta de la base de datos, constructor de la ruta, y el nombre de la base de datos

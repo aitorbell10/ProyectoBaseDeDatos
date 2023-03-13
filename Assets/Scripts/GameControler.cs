@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/// <summary>
+/// Script creado para decir al programa que debe ir poniendo en cada ocasión, y aparte que debe mostrar en pantalla según el punto del juego en el que estes.
+/// </summary>
+
 public class GameControler : MonoBehaviour
 {
 

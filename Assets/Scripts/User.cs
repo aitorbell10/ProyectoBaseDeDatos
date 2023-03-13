@@ -1,5 +1,9 @@
 using System;
 
+/// <summary>
+/// Script creado para acceder más rápido desde otros scripts, se llama serialize.
+/// </summary>
+
 [Serializable]
 public class User
 {
